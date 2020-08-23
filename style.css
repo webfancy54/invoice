@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.w-5{
+    width: 50%;
+    border: 1.5px solid #ddd;
+}
+.font-bold{
+    font-weight: bold;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+.thead-2{
+    background: #3B4E87;
+    color: #fff;
+}
+.w-full{
+    border: 1px solid #ddd;
+    height: 150px;
+    padding: 5px;
+}
+.w-full h5{
+    background: #ddd;
+}
+.tbl-2 tbody tr td:nth-child(5){
+    background: #d8d8d9;
+}
+.tbl-9  td, .tbl-9  th{
+    padding: 0;
+    border-top: none;
+}
+.tbl-9  tbl-9e, .tbl-9 .tbl-9e{
+    padding: .75em;
+    border-top: 2px solid #111;
+}
